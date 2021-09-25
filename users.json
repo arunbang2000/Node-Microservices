@@ -1,0 +1,33 @@
+{
+    "user1": {
+      "id":1,
+      "car":"Honda",
+      "firstname":"Arun",
+      "lastname":"Bang",
+      "email":"arun@gmail.com"
+    },
+  
+    "user2":  {
+      "id":2,
+      "car":"Kia_Cadenza",
+      "firstname":"Abhishek",
+      "lastname":"Bang",
+      "email":"abhishek@gmail.com"
+    },
+  
+    "user3":  {
+      "id":3,
+      "car":"Ford_Fusion",
+      "firstname":"Rekha",
+      "lastname":"bang",
+      "email":"rekha@gmail.com"
+    },
+  
+    "user4": {
+      "id":4,
+      "car":"Chevrolet_Impalia",
+      "firstname":"Sushil",
+      "lastname":"Toshniwal",
+      "email":"sushil@gmail.com"
+    }
+  }

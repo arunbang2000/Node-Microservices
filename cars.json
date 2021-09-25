@@ -1,0 +1,33 @@
+{
+  "user1": {
+    "id": 1,
+    "car": "Honda",
+    "Starting MSRP": "$26,530",
+    "Average Price Paid": "$24,686",
+    "Invoice": "$24,273"
+  },
+
+  "user2": {
+    "id": 2,
+    "car": "Kia_Cadenza",
+    "Starting MSRP": "$37,850",
+    "Average Price Paid": "$36,581",
+    "Invoice": "$36,147"
+  },
+
+  "user3": {
+    "id": 3,
+    "car": "Ford_Fusion",
+    "Starting MSRP": "$24,500",
+    "Average Price Paid": "$23,237",
+    "Invoice": "$23,278"
+  },
+
+  "user4": {
+    "id": 4,
+    "car": "Chevrolet_Impalia",
+    "Starting MSRP": "$31,620",
+    "Average Price Paid": "$30,217",
+    "Invoice": "$30,482"
+  }
+}
